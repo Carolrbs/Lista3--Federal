@@ -1,0 +1,8 @@
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\bin\Debug\Lista3 exe10.exe.config
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\bin\Debug\Lista3 exe10.exe
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\bin\Debug\Lista3 exe10.pdb
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\obj\Debug\Lista3 exe10.csproj.AssemblyReference.cache
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\obj\Debug\Lista3 exe10.csproj.CoreCompileInputs.cache
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\obj\Debug\Lista3 exe10.exe
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\obj\Debug\Lista3 exe10.pdb
+C:\Users\Ana_R\Downloads\Federal\Nova pasta\Lista3 exe10\Lista3 exe10\obj\Debug\Lista3 exe10.exe.config
