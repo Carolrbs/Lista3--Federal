@@ -1,0 +1,2 @@
+C:\Users\Ana_R\Downloads\Federal\Programação c#-Lista 2e 3\Programação c#-Lista 2e 3\Lista3 exe9\Lista3 exe9\obj\Debug\Lista3 exe9.csproj.AssemblyReference.cache
+C:\Users\Ana_R\Downloads\Federal\Programação c#-Lista 2e 3\Programação c#-Lista 2e 3\Lista3 exe9\Lista3 exe9\obj\Debug\Lista3 exe9.csproj.CoreCompileInputs.cache
